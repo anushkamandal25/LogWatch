@@ -132,6 +132,7 @@ Thumbs.db
 # Allow sample logs
 !sample_logs/
 !sample_logs/*.log
+sample_logs/access_large.log
 
 # Temporary files
 *.tmp
