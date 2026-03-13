@@ -200,27 +200,6 @@ Analysis time: 0.023 seconds
 Total time: 0.068 seconds
 Throughput: 73,529 entries/second
 ```
-  ...
-
-============================================================
-ERROR BREAKDOWN
-============================================================
-
-404 Not Found: 10
-500 Internal Server Error: 3
-...
-
-============================================================
-SUSPICIOUS ACTIVITY & ANOMALIES
-============================================================
-
---- IPs with Unusually High Request Volume ---
-  192.168.1.100: 14 requests
-
---- IPs with High 404 Error Rate ---
-  10.0.0.50: 8 404 responses
-...
-```
 
 ## Log Format
 
