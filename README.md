@@ -23,7 +23,7 @@ LogWatch/
 │   ├── access.log       # Original sample (28 entries)
 │   ├── access_small.log # Small test file (100 entries)
 │   ├── access_medium.log# Medium test file (5,000 entries)
-│   ├── access_large.log # Large test file (50,000+ entries)
+│   ├── access_large.log # Large test file (50,000+ entries)(file ignored due to large size)
 │  
 └── README.md
 ```
