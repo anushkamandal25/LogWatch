@@ -1,6 +1,6 @@
 # LogWatch
 
-A beginner-friendly Python tool for analyzing nginx/apache web server access logs and identifying abnormal traffic patterns.
+A Python-based web server log monitoring tool that parses access logs, detects anomalous traffic patterns, and generates system health reports for debugging production systems. It helps in analyzing nginx/apache web server access logs and identifying abnormal traffic patterns.
 
 ## Features
 
